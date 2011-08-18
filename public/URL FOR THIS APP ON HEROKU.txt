@@ -1,0 +1,3 @@
+http://furious-window-971.heroku.com
+- OR -
+You can just type on the command line "heroku open"
