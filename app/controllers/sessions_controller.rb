@@ -17,8 +17,9 @@ def create
   end
 end
   
-  def destroy
-    
-  end
+def destroy
+  sign_out
+  redirect_to root_path
+end
 
 end
